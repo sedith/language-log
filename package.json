@@ -1,0 +1,12 @@
+{
+  "name": "language-Log",
+  "version": "1.1.0",
+  "description": "Empty grammar package to discrimiate .log files.",
+  "keywords": [
+    "log"
+  ],
+  "license": "Unlicense",
+  "engines": {
+    "atom": ">1.0.0"
+  }
+}
