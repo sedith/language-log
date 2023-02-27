@@ -1,3 +1,3 @@
-# LOG empty grammar package for Atom
+# LOG empty grammar package for ~Atom~ Pulsar
 
 Discriminate log files.
